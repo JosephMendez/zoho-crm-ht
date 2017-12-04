@@ -3,16 +3,16 @@
     "type": "library",
     "description": "Provides a clean readable PHP API to the Zoho Rest API",
     "keywords": ["zoho", "api", "crm", "client", "rest", "sdk"],
-    "homepage": "https://cristianpontes.github.io/zoho-crm-client-php",
+    "homepage": "https://github.com/JosephMendez/zoho-crm-ht",
     "license": "MIT",
     "authors": [
         {
             "name": "Joseph Mendez",
-            "email": "hsilencee@gmail.com"
+            "email": "joseph.mendez@hiretrades.com.au"
         },
         {
-            "name": "Christiaan Baartse",
-            "email": "anotherhero@gmail.com"
+            "name": "Joseph Mendez",
+            "email": "joseph.mendez@hiretrades.com.au"
         }
     ],
     "require": {
