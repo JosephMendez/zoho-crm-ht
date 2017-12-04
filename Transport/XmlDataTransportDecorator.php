@@ -183,20 +183,23 @@ class XmlDataTransportDecorator extends AbstractTransportDecorator
 
         $xml = new SimpleXMLElement($content);
         if (isset($xml->error)) {
-            throw new Exception\ZohoErrorException(
+          /*   throw new Exception\ZohoErrorException(
                 new ZohoError(
                     (string) $xml->error->code,
                     (string) $xml->error->message
                 )
             );
+            */
+            return 'error';
         }
 
         if (isset($xml->nodata)) {
-            throw new Exception\NoDataException(
+           /* throw new Exception\NoDataException(
                 new ZohoError(
                     (string)$xml->nodata->code, (string) $xml->nodata->message
                 )
-            );
+            ); */
+           return 'nodata';
         }
 
         if ($this->method == 'getFields') {
