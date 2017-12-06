@@ -1,7 +1,7 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Exception;
+namespace JosephMendez\ZohoCRMClient\Exception;
 
 class RuntimeException extends \RuntimeException
 {
 
-} 
+}

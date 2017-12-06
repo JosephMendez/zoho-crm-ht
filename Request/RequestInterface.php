@@ -1,7 +1,7 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Request;
+namespace JosephMendez\ZohoCRMClient\Request;
 
-use CristianPontes\ZohoCRMClient\Transport\TransportRequest;
+use JosephMendez\ZohoCRMClient\Transport\TransportRequest;
 
 /**
  * All public API requests implement this interface

@@ -1,5 +1,5 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Transport;
+namespace JosephMendez\ZohoCRMClient\Transport;
 
 use Buzz\Browser;
 use Buzz\Message\Form\FormUpload;

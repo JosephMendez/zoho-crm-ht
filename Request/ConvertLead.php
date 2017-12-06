@@ -1,7 +1,7 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Request;
+namespace JosephMendez\ZohoCRMClient\Request;
 
-use CristianPontes\ZohoCRMClient\Response\MutationResult;
+use JosephMendez\ZohoCRMClient\Response\MutationResult;
 
 /**
  * ConvertLead API Call
@@ -72,7 +72,7 @@ class ConvertLead extends AbstractRequest
     }
 
     /**
-     * Specify the existing Contact the converting lead should be associated to 
+     * Specify the existing Contact the converting lead should be associated to
      * @param string $contactId
      * @return ConvertLead
      */

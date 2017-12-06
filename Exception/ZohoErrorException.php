@@ -1,7 +1,7 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Exception;
+namespace JosephMendez\ZohoCRMClient\Exception;
 
-use CristianPontes\ZohoCRMClient\ZohoError;
+use JosephMendez\ZohoCRMClient\ZohoError;
 
 /**
  * Exception to thrown ZohoError objects

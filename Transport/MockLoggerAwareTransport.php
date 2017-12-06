@@ -1,5 +1,5 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Transport;
+namespace JosephMendez\ZohoCRMClient\Transport;
 
 use Psr\Log\LoggerAwareInterface;
 use Psr\Log\LoggerInterface;
@@ -36,4 +36,4 @@ class MockLoggerAwareTransport extends MockTransport implements LoggerAwareInter
     }
 
 
-} 
+}

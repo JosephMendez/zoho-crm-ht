@@ -1,7 +1,7 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Request;
+namespace JosephMendez\ZohoCRMClient\Request;
 
-use CristianPontes\ZohoCRMClient\Response\Record;
+use JosephMendez\ZohoCRMClient\Response\Record;
 
 /**
  * GetDeletedRecordIds API Call

@@ -1,10 +1,10 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Request;
+namespace JosephMendez\ZohoCRMClient\Request;
 
-use CristianPontes\ZohoCRMClient\Exception\NoDataException;
-use CristianPontes\ZohoCRMClient\Exception\UnexpectedValueException;
-use CristianPontes\ZohoCRMClient\Response\Record;
-use CristianPontes\ZohoCRMClient\Transport\TransportRequest;
+use JosephMendez\ZohoCRMClient\Exception\NoDataException;
+use JosephMendez\ZohoCRMClient\Exception\UnexpectedValueException;
+use JosephMendez\ZohoCRMClient\Response\Record;
+use JosephMendez\ZohoCRMClient\Transport\TransportRequest;
 
 abstract class AbstractRequest implements RequestInterface
 {

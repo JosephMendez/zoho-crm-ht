@@ -1,10 +1,10 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Transport;
+namespace JosephMendez\ZohoCRMClient\Transport;
 
-use CristianPontes\ZohoCRMClient\Exception;
-use CristianPontes\ZohoCRMClient\Request\ConvertLead;
-use CristianPontes\ZohoCRMClient\Response;
-use CristianPontes\ZohoCRMClient\ZohoError;
+use JosephMendez\ZohoCRMClient\Exception;
+use JosephMendez\ZohoCRMClient\Request\ConvertLead;
+use JosephMendez\ZohoCRMClient\Response;
+use JosephMendez\ZohoCRMClient\ZohoError;
 
 use SimpleXMLElement;
 
@@ -55,7 +55,7 @@ class XmlDataTransportDecorator extends AbstractTransportDecorator
     }
 
     /**
-     * 
+     *
      * @param array $paramList
      * @return string XML representation of the records
      */

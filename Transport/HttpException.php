@@ -1,7 +1,7 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Transport;
+namespace JosephMendez\ZohoCRMClient\Transport;
 
-use CristianPontes\ZohoCRMClient\Exception\Exception;
+use JosephMendez\ZohoCRMClient\Exception\Exception;
 
 /**
  * HttpException thrown when Zoho returns a non 200 status code

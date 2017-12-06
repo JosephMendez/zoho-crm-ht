@@ -1,7 +1,7 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Request;
+namespace JosephMendez\ZohoCRMClient\Request;
 
-use CristianPontes\ZohoCRMClient\Response\MutationResult;
+use JosephMendez\ZohoCRMClient\Response\MutationResult;
 
 /**
  * InsertRecords API Call

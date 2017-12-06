@@ -1,5 +1,5 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Response;
+namespace JosephMendez\ZohoCRMClient\Response;
 
 class Field
 {
@@ -86,4 +86,4 @@ class Field
     {
         return $this->section;
     }
-} 
+}

@@ -1,11 +1,11 @@
 <?php
 
-namespace CristianPontes\ZohoCRMClient;
+namespace JosephMendez\ZohoCRMClient;
 
 use Buzz\Browser;
 use Buzz\Client\Curl;
-use CristianPontes\ZohoCRMClient\Request;
-use CristianPontes\ZohoCRMClient\Transport;
+use JosephMendez\ZohoCRMClient\Request;
+use JosephMendez\ZohoCRMClient\Transport;
 use Psr\Log\LoggerAwareInterface;
 use Psr\Log\LoggerInterface;
 
@@ -200,7 +200,7 @@ class ZohoCRMClient implements LoggerAwareInterface
     }
 
     /**
-     * @return \CristianPontes\ZohoCRMClient\Transport\TransportRequest
+     * @return \JosephMendez\ZohoCRMClient\Transport\TransportRequest
      */
     protected function request()
     {

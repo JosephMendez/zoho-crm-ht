@@ -1,7 +1,7 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Exception;
+namespace JosephMendez\ZohoCRMClient\Exception;
 
 class Exception extends \Exception
 {
 
-} 
+}

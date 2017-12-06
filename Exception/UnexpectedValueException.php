@@ -1,5 +1,5 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Exception;
+namespace JosephMendez\ZohoCRMClient\Exception;
 
 /**
  * UnexpectedValueException Thrown when Zoho returns a unknown response
@@ -7,4 +7,4 @@ namespace CristianPontes\ZohoCRMClient\Exception;
 class UnexpectedValueException extends Exception
 {
 
-} 
+}

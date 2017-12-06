@@ -1,5 +1,5 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Transport;
+namespace JosephMendez\ZohoCRMClient\Transport;
 
 class MockTransport implements Transport
 {
@@ -15,4 +15,4 @@ class MockTransport implements Transport
         $this->paramList = $paramList;
         return $this->response;
     }
-} 
+}

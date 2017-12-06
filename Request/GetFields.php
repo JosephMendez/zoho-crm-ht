@@ -1,5 +1,5 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Request;
+namespace JosephMendez\ZohoCRMClient\Request;
 
 /**
  * GetFields API Call

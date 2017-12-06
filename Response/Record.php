@@ -1,5 +1,5 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Response;
+namespace JosephMendez\ZohoCRMClient\Response;
 
 /**
  * Record
@@ -55,4 +55,4 @@ class Record
     {
         return json_encode($this->data);
     }
-} 
+}

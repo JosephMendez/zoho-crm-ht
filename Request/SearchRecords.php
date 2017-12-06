@@ -1,6 +1,6 @@
 <?php
-namespace CristianPontes\ZohoCRMClient\Request;
-use CristianPontes\ZohoCRMClient\Response\Record;
+namespace JosephMendez\ZohoCRMClient\Request;
+use JosephMendez\ZohoCRMClient\Response\Record;
 
 /**
  * SearchRecords API Call
