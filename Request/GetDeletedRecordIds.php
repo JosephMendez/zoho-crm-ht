@@ -1,7 +1,7 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Request;
+namespace JosephMendez\JZohoCRMClient\Request;
 
-use JosephMendez\ZohoCRMClient\Response\Record;
+use JosephMendez\JZohoCRMClient\Response\Record;
 
 /**
  * GetDeletedRecordIds API Call

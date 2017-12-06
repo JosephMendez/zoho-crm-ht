@@ -24,9 +24,9 @@
         "phpunit/phpunit": "4.8.*"
     },
     "autoload": {
-        "psr-0": {"JosephMendez\\ZohoCRMClient": ""}
+        "psr-0": {"JosephMendez\\JZohoCRMClient": ""}
     },
-    "target-dir": "JosephMendez/ZohoCRMClient",
+    "target-dir": "JosephMendez/JZohoCRMClient",
     "minimum-stability": "stable",
     "extra": {
         "branch-alias": {

@@ -1,5 +1,5 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Request;
+namespace JosephMendez\JZohoCRMClient\Request;
 
 /**
  * GetRecordById API Call

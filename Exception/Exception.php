@@ -1,5 +1,5 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Exception;
+namespace JosephMendez\JZohoCRMClient\Exception;
 
 class Exception extends \Exception
 {

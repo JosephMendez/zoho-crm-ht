@@ -1,6 +1,6 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Request;
-use JosephMendez\ZohoCRMClient\Response\Record;
+namespace JosephMendez\JZohoCRMClient\Request;
+use JosephMendez\JZohoCRMClient\Response\Record;
 
 /**
  * GetRelatedRecords API Call

@@ -1,5 +1,5 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Transport;
+namespace JosephMendez\JZohoCRMClient\Transport;
 
 use Psr\Log\LoggerAwareInterface;
 use Psr\Log\LoggerInterface;

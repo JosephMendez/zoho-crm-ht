@@ -1,7 +1,7 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Response;
+namespace JosephMendez\JZohoCRMClient\Response;
 
-use JosephMendez\ZohoCRMClient\ZohoError;
+use JosephMendez\JZohoCRMClient\ZohoError;
 use DateTime;
 
 /**

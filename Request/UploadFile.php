@@ -1,8 +1,8 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Request;
+namespace JosephMendez\JZohoCRMClient\Request;
 
 use Buzz\Message\Form\FormUpload;
-use JosephMendez\ZohoCRMClient\Response\MutationResult;
+use JosephMendez\JZohoCRMClient\Response\MutationResult;
 
 /**
  * UploadFile API Call

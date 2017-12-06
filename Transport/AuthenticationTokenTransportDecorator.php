@@ -1,5 +1,5 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Transport;
+namespace JosephMendez\JZohoCRMClient\Transport;
 
 /**
  * Transport Decorator that transparently adds the authtoken param and scope param

@@ -1,6 +1,6 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Transport;
-use JosephMendez\ZohoCRMClient\Response\MutationResult;
+namespace JosephMendez\JZohoCRMClient\Transport;
+use JosephMendez\JZohoCRMClient\Response\MutationResult;
 
 /**
  * Model representing the request to Zoho without the sugar

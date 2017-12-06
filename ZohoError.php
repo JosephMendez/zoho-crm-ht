@@ -1,5 +1,5 @@
 <?php
-namespace CristianPontes\ZohoCRMClient;
+namespace JosephMendez\JZohoCRMClient;
 
 /**
  * ZohoError

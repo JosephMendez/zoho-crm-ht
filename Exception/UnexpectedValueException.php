@@ -1,5 +1,5 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Exception;
+namespace JosephMendez\JZohoCRMClient\Exception;
 
 /**
  * UnexpectedValueException Thrown when Zoho returns a unknown response

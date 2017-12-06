@@ -1,5 +1,5 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Transport;
+namespace JosephMendez\JZohoCRMClient\Transport;
 
 /**
  * Transport used by the Client to facilitate the connection to Zoho

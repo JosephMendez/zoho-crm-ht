@@ -1,5 +1,5 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Response;
+namespace JosephMendez\JZohoCRMClient\Response;
 
 class Field
 {

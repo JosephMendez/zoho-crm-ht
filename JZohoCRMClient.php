@@ -1,19 +1,19 @@
 <?php
 
-namespace JosephMendez\ZohoCRMClient;
+namespace JosephMendez\JZohoCRMClient;
 
 use Buzz\Browser;
 use Buzz\Client\Curl;
-use JosephMendez\ZohoCRMClient\Request;
-use JosephMendez\ZohoCRMClient\Transport;
+use JosephMendez\JZohoCRMClient\Request;
+use JosephMendez\JZohoCRMClient\Transport;
 use Psr\Log\LoggerAwareInterface;
 use Psr\Log\LoggerInterface;
 
 /**
- * Main Class of the ZohoCRMClient library
+ * Main Class of the JZohoCRMClient library
  * Only use this class directly
  */
-class ZohoCRMClient implements LoggerAwareInterface
+class JZohoCRMClient implements LoggerAwareInterface
 {
     /** @var string */
     private $module;
@@ -23,7 +23,7 @@ class ZohoCRMClient implements LoggerAwareInterface
     private $logger;
 
     /**
-     * ZohoCRMClient constructor.
+     * JZohoCRMClient constructor.
      * @param $module
      * @param $authToken
      * @param string $domain
@@ -200,7 +200,7 @@ class ZohoCRMClient implements LoggerAwareInterface
     }
 
     /**
-     * @return \JosephMendez\ZohoCRMClient\Transport\TransportRequest
+     * @return \JosephMendez\JZohoCRMClient\Transport\TransportRequest
      */
     protected function request()
     {

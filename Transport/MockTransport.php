@@ -1,5 +1,5 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Transport;
+namespace JosephMendez\JZohoCRMClient\Transport;
 
 class MockTransport implements Transport
 {

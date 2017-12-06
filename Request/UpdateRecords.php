@@ -1,7 +1,7 @@
 <?php
-namespace JosephMendez\ZohoCRMClient\Request;
+namespace JosephMendez\JZohoCRMClient\Request;
 
-use JosephMendez\ZohoCRMClient\Response\MutationResult;
+use JosephMendez\JZohoCRMClient\Response\MutationResult;
 
 /**
  * UpdateRecords API Call
